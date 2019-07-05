@@ -7,4 +7,8 @@ change a lot!
 and change!
 some thing!
 creat a new branch dev!
+<<<<<<< HEAD
 creating a new branch is quick & simple.
+=======
+creat a new branch is quick and simple!
+>>>>>>> feature1
