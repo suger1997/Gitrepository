@@ -1,0 +1,16 @@
+用户名：suger1997
+密码：syb19970722
+
+本地内容推送到远程仓库 git push -u origin master
+查看文件内容  cat <name>
+
+查看分支  git branch
+创建分支  git branch <name>
+切换分支  git checkout <name>
+创建并切换分支  git checkout -b <name>
+合并分支A到当前分支  git merge <A>
+删除分支  git branch -d <name>
+
+
+码云账号：15639901530	
+密码：s19970722
